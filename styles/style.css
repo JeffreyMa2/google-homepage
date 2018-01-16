@@ -3,10 +3,6 @@
   border-radius:0px
 }
 
-.searchfield {
-  
-}
-
 a {
   color: black;
   text-decoration: none;
@@ -27,6 +23,28 @@ a {
   word-spacing: 10px;
 }
 
+.bottomleftnav {
+  margin-top: 10px;
+  margin-left: 30px;
+
+}
+
+.bottomrightnav {
+text-align: right;
+margin-top: 10px;
+margin-top:-20px;
+margin-right: 30px;
+}
+
+.bottomnav {
+  position:fixed;
+  left:0px;
+  bottom:0px;
+  height:40px;
+  width:100%;
+  background:#e3e3e3;
+  word-spacing: 10px;
+}
 
 .button {
   background-color: #2196F3;
